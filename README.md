@@ -4,7 +4,7 @@ Hi Everyone,
 
 this is my second project in Advance Moblie course
 
-(Made by Lior Trachtman & Noar Farag)
+(Made by Lior Trachtman & Naor Farag)
 
 This App includes two applications that share a common module that pulls information from the server with Retrofit 
 library and calculates usage time with the help of Room library.

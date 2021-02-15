@@ -1,0 +1,4 @@
+include ':garage'
+include ':common'
+include ':customer'
+rootProject.name = "MyGarageMultiApp"
